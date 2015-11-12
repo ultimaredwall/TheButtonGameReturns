@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The Button Game Returns</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_screen">StartScreen</string>
+    <string name="usernameHint">Username</string>
+    <string name="title_activity_level_select">LevelSelect</string>
+    <string name="title_activity_game_mode_select">GameModeSelect</string>
+    <string name="game_title_part1">The Button Game</string>
+    <string name="game_title_part2">Returns</string>
+    <string name="tap_message">Tap Anywhere to Begin</string>
+    <string name="timed_mode_button">Timed\nMode</string>
+    <string name="survival_mode_button">Survival\nMode</string>
+    <string name="level_select_title">Select Difficulty</string>
+    <string name="game_mode_select_title">Select Game Mode</string>
+    <string name="title_activity_high_scores">HighScores</string>
+    <string name="highscores_activity_title">Highscores</string>
+    <string name="first_place_holdertext">1. - - -</string>
+    <string name="second_place_holdertext">2. - - -</string>
+    <string name="third_place_holdertext">3. - - -</string>
+    <string name="fourth_place_holdertext">4. - - -</string>
+    <string name="fifth_place_holdertext">5. - - -</string>
+</resources>
