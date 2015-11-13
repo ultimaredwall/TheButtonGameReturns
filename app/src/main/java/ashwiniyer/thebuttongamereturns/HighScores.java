@@ -117,6 +117,7 @@ public class HighScores extends ListActivity {
     }
 
 
+
     @Override
     protected void onResume(){
         super.onResume();
